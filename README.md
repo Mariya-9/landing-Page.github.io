@@ -4,15 +4,15 @@
 
 ![!](/img/landingPlane.png "Landing Page Project")
 
-> Welcome Ladies and Gentlemen !
+> Welcome Ladies and Gentlemen!
 
 ## PROJECT OVERVIEW
 
-Landing Page Project . It's the Second Project in **NANO-DEGREES** Scholarship .<br>
+Landing Page Project. It's the Second Project in **NANO-DEGREES** Scholarship .<br>
 The Project developed with:
 
 [![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
-The hierarchical of The Project Comes as Following :
+The hierarchy of The Project Comes as Follows:
 
 | Folder Name | File Name  | --                                        |
 | ----------- | ---------- | ----------------------------------------- |
@@ -22,7 +22,7 @@ The hierarchical of The Project Comes as Following :
 | --          | README.md  | ![!](/img/M5.jpeg "Landing Page Project") |
 
 **NOTE** This one more Extra Folder for **Img** .
-Just fot the Purpose of **README** Document.
+Just for the Purpose of **README** Document.
 
 | Folder Name | File Name        | --                                        |
 | ----------- | ---------------- | ----------------------------------------- |
@@ -39,12 +39,12 @@ Just fot the Purpose of **README** Document.
 
 # PROJECT INSTALLATION
 
-The Project has Uploaded as a website on github . URL: [Landing Page Website](https://github.com/Mariya-9/landing-page.github.io "Goto Landing Page Website")
+The Project has been Uploaded as a website on GitHub. URL: [Landing Page Website](https://github.com/Mariya-9/landing-page.github.io "Goto Landing Page Website")
 
 # PROJECT QUICK DEMO
 
-The Landing Page Project focused on **Vanilla JS** in specific . How To use The **DOM** in the Project . How to make a complete **NAVBAR** from JS Codes without using HTML codes. As well as , Create the scrolling property using JS.
+The Landing Page Project focused on **Vanilla JS** in specific. How To Use The **DOM** in the Project. How to make a complete **NAVBAR** from JS Codes without using HTML codes. As well as Create the scrolling property using JS.
 
-**PULS TO** Make the Project Responsive for all devices . Start From Desktop until Mobiles.
+**PULS TO** Make the Project Responsive for all devices. Start From Desktop until Mobiles.
 
 [TOP<kbd>⌃</kbd>](#landing-page-project).
